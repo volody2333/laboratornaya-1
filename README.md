@@ -1,1 +1,1 @@
-# labaratornaya-1
+# laboratornaya-1
