@@ -12,7 +12,7 @@
 	double x1 = (-b + pow(D, 0.5)) / (2 * a);
 	double x2 = (-b - pow(D, 0.5)) / (2 * a);
 	
-	printf("D = %.2d\n", D);
+	printf("D = %.2f\n", D);
 	printf("x1 = %.2f\n", x1);
 	printf("x2 = %.2f\n", x2);
  }
